@@ -1,0 +1,21 @@
+.img-display-before {
+  height: 40px;
+  width: 40px;
+  margin-left: 35px;
+}
+
+.img-display-after {
+  height: 40px;
+  width: 40px;
+  border-radius: 100%;
+}
+
+.user-info-container {
+  display: flex;
+  align-items: center;
+}
+
+.welcome-text {
+  margin-left: 10px; /* Adjust as needed */
+  font-weight: bold;
+}
